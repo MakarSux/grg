@@ -69,6 +69,16 @@ header{
     padding-top: 3px;
 }
 
+.main{
+    width: 1080px;
+    margin: 0 auto;
+}
+
+.info-block{
+    display: flex;
+    margin-top: 235px;
+    justify-content: space-between;
+}
 
 .info-block__content h1{
     font-size: 48px;
